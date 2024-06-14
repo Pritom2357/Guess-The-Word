@@ -1,2 +1,2 @@
-# Guess-The-Word
+# Guess-The-Number
 game-type
